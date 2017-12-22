@@ -20,7 +20,4 @@
 
 <style lang="scss" rel="stylesheet/scss" scoped>
   @import "./common/sass/variable.scss";
-  /*#app {
-    color:$color-theme;
-  }*/
 </style>

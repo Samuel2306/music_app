@@ -7,7 +7,7 @@
 <script>
     export default {}
 </script>
-<style lang="scss" scoped>
+<style lang="scss" rel="stylesheet/scss" scoped>
   @import "../../common/sass/variable.scss";
   @import "../../common/sass/mixin.scss";
 
